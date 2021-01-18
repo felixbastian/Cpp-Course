@@ -41,6 +41,8 @@ int main()
         sampling = sampling + sampleFrequency; // iterating the sample
     }
 
+    return 0;
+
 }
 
 

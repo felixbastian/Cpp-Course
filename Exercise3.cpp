@@ -28,6 +28,8 @@ int main (){
 
     cout << "X value is now equal to:" << x << endl;
     cout << "Y value is now equal to:" << y << endl;
+
+    return 0;
 }
 
 

@@ -20,6 +20,7 @@ int main() {
 
     cout << fibonacciCalculation(input);
 
+    return 0;
 
 }
 

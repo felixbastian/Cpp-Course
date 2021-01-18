@@ -43,7 +43,7 @@ int main() {
     cout << "Pseudo code: --> If (n==1) return 3; if (n==2||n==3) return 7; if (n==4 to 7) return 15; if (n==8 to 15) return 31;" << endl;
     cout << "This becomes clear as calling the recursive function twice leads to forking the function, leading to forking the function ...";
 
-
+    return 0;
 
 }
 

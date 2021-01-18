@@ -10,6 +10,7 @@ int main(){
 
     cout << floydization(input);
 
+    return 0;
 }
 
 int floydization(int n){

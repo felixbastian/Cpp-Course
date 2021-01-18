@@ -30,6 +30,8 @@ int main()
 
     cout << determineEnclosure(xCo, yCo, centerX, centerY, radius);
 
+    return 0;
+
 }
 
 string determineEnclosure(double i, double j, double k, double l, double m){
