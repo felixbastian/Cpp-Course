@@ -37,7 +37,7 @@ int main()
 string determineEnclosure(double i, double j, double k, double l, double m){
 
   if (pow((i-k),2) + pow((j-l),2)<= pow(m, 2)){
-            //check whether distance between points is smaller or equal to radius
+            // check whether distance between points is smaller or equal to radius
         return "Point IS enclosed in the defined circle";
     }
 

@@ -3,7 +3,7 @@ using namespace std;
 
 int input;
 
-int fibonacciCalculation(int n) {
+int fibonacciCalculation(int n){
 
 
   if (n ==0|| n ==1 ) return n;

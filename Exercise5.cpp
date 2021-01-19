@@ -18,7 +18,6 @@ int fibonacciCalculation(int n) {
         fib2= fib;
   }
   return fib;
-
  }
 
 int main() {

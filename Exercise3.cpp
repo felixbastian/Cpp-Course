@@ -24,7 +24,7 @@ int main (){
     cout << "Provide second integer (Y): ";
     cin >> y;
 
-    swapping (x,y);
+    swapping(x,y);
 
     cout << "X value is now equal to:" << x << endl;
     cout << "Y value is now equal to:" << y << endl;

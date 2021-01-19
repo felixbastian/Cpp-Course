@@ -4,7 +4,7 @@ using namespace std;
 int input1, input2;
 int iterations1=0, iterations2=0;
 
-int powerCalculation(int m, int n) {
+int powerCalculation(int m, int n){
 
     iterations1++;
   if (n == 0 ) return 1;

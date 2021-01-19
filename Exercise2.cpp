@@ -6,7 +6,7 @@ double initPosition;
 double speed;
 double acceleration;
 double numberOfSamples; // = number of iterations
-double sampleFrequency; //in seconds
+double sampleFrequency; // in seconds
 double sampling = 0;
 
 double calculation(double, double, double, double);
